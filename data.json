@@ -1,79 +1,79 @@
 [
   {
     "name": "H.Madsalim",
-    "photo": "/foto/0.jpg",
-    "photo2": "/foto/0a.jpg",
+    "photo": "/MSL/foto/0.jpg",
+    "photo2": "/MSL/foto/0a.jpg",
     "generation": 1,
     "id": 1
   },
   {
     "name": "Kel.Bpk.Aceng",
-    "photo": "/foto/1.jpg",
-    "photo2": "/foto/1a.jpg",
+    "photo": "/MSL/foto/1.jpg",
+    "photo2": "/MSL/foto/1a.jpg",
     "generation": 2,
     "id": 2
   },
   {
     "name": "Kel.Ibu.Eneng",
-    "photo": "/foto/2.jpg",
-    "photo2": "/foto/2a.jpg",
+    "photo": "/MSL/foto/2.jpg",
+    "photo2": "/MSL/foto/2a.jpg",
     "generation": 2,
     "id": 3
   },
   
   {
     "name": "Kel.Bpk.Dadang",
-    "photo": "/foto/10.jpg",
-    "photo2": "/foto/10a.jpg",
+    "photo": "/MSL/foto/10.jpg",
+    "photo2": "/MSL/foto/10a.jpg",
     "generation": 2,
     "id": 5
   },
 {
     "name": "Kel.Ibu.Enok",
-    "photo": "/foto/3.jpg",
-    "photo2": "/foto/3a.jpg",
+    "photo": "/MSL/foto/3.jpg",
+    "photo2": "/MSL/foto/3a.jpg",
     "generation": 2,
     "id": 4
   },
   {
     "name": "Kel.Ibu.Odah",
-    "photo": "/foto/4.jpg",
-    "photo2": "/foto/4a.jpg",
+    "photo": "/MSL/foto/4.jpg",
+    "photo2": "/MSL/foto/4a.jpg",
     "generation": 2,
     "id": 6
   },
   {
     "name": "Kel.Bpk Said",
-    "photo": "/foto/5.jpg",
-    "photo2": "/foto/5a.jpg",
+    "photo": "/MSL/foto/5.jpg",
+    "photo2": "/MSL/foto/5a.jpg",
     "generation": 2,
     "id": 7
   },
   {
     "name": "Kel.Ibu.Titi",
-    "photo": "/foto/6.jpg",
-    "photo2": "/foto/6a.jpg",
+    "photo": "/MSL/foto/6.jpg",
+    "photo2": "/MSL/foto/6a.jpg",
     "generation": 2,
     "id": 8
   },
   {
     "name": "Kel.Ibu Iah",
-    "photo": "/foto/7.jpg",
-    "photo2": "/foto/7a.jpg",
+    "photo": "/MSL/foto/7.jpg",
+    "photo2": "/MSL/foto/7a.jpg",
     "generation": 2,
     "id": 9
   },
   {
     "name": "Kel.Bpk.Kurnia",
-    "photo": "/foto/8.jpg",
-    "photo2": "/foto/8a.jpg",
+    "photo": "/MSL/foto/8.jpg",
+    "photo2": "/MSL/foto/8a.jpg",
     "generation": 2,
     "id": 10
   },
   {
     "name": "Kel.Ibu.Euis",
-    "photo": "/foto/9.jpg",
-    "photo2": "/foto/9a.jpg",
+    "photo": "/MSL/foto/9.jpg",
+    "photo2": "/MSL/foto/9a.jpg",
     "generation": 2,
     "id": 11
   }
