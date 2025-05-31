@@ -20,7 +20,7 @@ async function loadData() {
           <div class="row"><div class="col"><img src="${member.photo}" alt="${member.name}" /></div>
           <div class="col"><img src="${member.photo2}" alt="${member.name}" /></div>
           </div>
-         <a href="/gen2/${member.id}.html">
+          <a href="${member.id === 1 ? "" : "MSL/gen2/" + member.id + ".html"}">
     <strong>${member.name}</strong>
   </a>
         `;
@@ -43,5 +43,5 @@ function printPDF() {
 }
 
 window.onload = loadData;
-window.addEventListener("load", loadData);
-window.addEventListener("load", loadData());
+// window.addEventListener("load", loadData);
+// window.addEventListener("load", loadData());

@@ -1,31 +1,38 @@
 [
   {
-    "name": "Kel. Bpk Aceng Madsalim",
-    "photo": "/foto/0.jpg",
-    "photo2": "/foto/0a.jpg",
+    "name": "Kel.Bpk Said",
+    "nam": "Bapak Said",
+    "nam2": "Ibu Uus",
+    "photo": "/MSL/foto/5.jpg",
+    "photo2": "/MSL/foto/5a.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
     "generation": 1,
     "id": 1
   },
   {
-    "name": "Kel.Bpk.Asep Nendi",
-    "photo": "/foto/1.jpg",
-    "photo2": "/foto/1a.jpg",
+    "name": "Kel.Bpk.Reno",
+    "nam": "Bapak Reno",
+    "nam2": "Ibu Rita",
+    "photo": "/MSL/foto/5.1.jpg",
+    "photo2": "/MSL/foto/5.1a.jpg",
     "generation": 2,
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
     "id": 2
   },
   {
-    "name": "Kel.Bpk Ade Indralesmana",
-    "photo": "/foto/2.jpg",
-    "photo2": "/foto/2a.jpg",
+    "name": "Rendi",
+    "photo": "/MSL/foto/5.2.jpg",
+    "dob": "Lahir: 1 Jan 1990",
     "generation": 2,
     "id": 3
   },
   {
-    "name": "Kel.Bpk Andre Nugraha",
-    "photo": "/foto/3.jpg",
-    "photo2": "/foto/3a.jpg",
+    "name": "Papay",
+    "photo": "/MSL/foto/5.3.jpg",
+    "dob": "Lahir: 1 Jan 1990",
     "generation": 2,
     "id": 4
   }
-  
 ]

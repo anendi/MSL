@@ -1,5 +1,5 @@
 async function loadData() {
-  const res = await fetch("data2.json");
+  const res = await fetch("data5.json");
   const members = await res.json();
 
   const tree = document.getElementById("tree");
@@ -17,9 +17,13 @@ async function loadData() {
         const card = document.createElement("div");
         card.className = "member";
         card.innerHTML = `
-          <div class="row"><div class="col"><img src="${member.photo}" alt="${member.name}" /></div>
-          <div class="col"><img src="${member.photo2}" alt="${member.name}" /></div>
+          <div class="row"><div class="col ${member.photo ? "" : "d-none"}"><img src="${member.photo}" alt="${member.name}" /></div>
+          <div class="col ${member.photo2 ? "" : "d-none"}"><img src="${member.photo2}" alt="${member.name}" /></div>
           </div>
+          <p class="text-justify ${member.nam || member.nam2 ? "" : "d-none"}">  ${member.nam ?? ""}${member.dob && member.nam2 ? " - " : ""}${member.nam2 ?? ""}</p>
+          <p class="text-justify ${member.dob || member.dob2 ? "" : "d-none"}">  ${member.dob ?? ""}${member.dob && member.dob2 ? " - " : ""}${member.dob2 ?? ""}</p>
+          <p class="text-justify ${member.die || member.die2 ? "" : "d-none"}">  ${member.die ?? ""}${member.die && member.die2 ? " - " : ""}${member.die2 ?? ""}</p>
+          <a href="${member.id === 1 ? "../gen2/4.html" : "../gen3/" + (member.id + 4) + ".html"}">
     <strong>${member.name}</strong>
   </a>
         `;

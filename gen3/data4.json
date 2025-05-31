@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Kel.Ibu Opi",
+    "nam": "Bapak Ali",
+    "nam2": "Ibu Opi Novianti",
+    "photo": "/MSL/foto/2.2.jpg",
+    "photo2": "/MSL/foto/2.2a.jpg",
+    "generation": 1,
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
+    "id": 2
+  },
+  {
+    "name": "Alvin",
+    "photo": "/MSL/foto/2.2.1.jpg",
+    "generation": 2
+  },
+  {
+    "name": "Iyo",
+    "photo": "/MSL/foto/2.2.2.jpg",
+    "generation": 2
+  }
+]

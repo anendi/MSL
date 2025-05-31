@@ -1,17 +1,20 @@
 [
   {
-    "name": "Bapak Saptoyo",
-    "photo": "/foto/7.jpg",
-    "generation": 1
-  },
-  {
-    "name": "Ibu Iah Sutiah",
-    "photo": "/foto/7a.jpg",
-    "generation": 1
+    "name": "Kel.Ibu Iah",
+    "nam": "Bapak Sapto",
+    "nam2": "Ibu Iah",
+    "photo": "/MSL/foto/7.jpg",
+    "photo2": "/MSL/foto/7a.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
+    "generation": 1,
+    "id": 1
   },
   {
     "name": "Devi Resti Sabita",
-    "photo": "/foto/7.1.jpg",
-    "generation": 2
+    "photo": "/MSL/foto/7.1.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "generation": 2,
+    "id": 2
   }
 ]

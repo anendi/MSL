@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Kel.Ibu Euis",
+    "nam": "Bapak Tono",
+    "nam2": "Ibu Euis Ratna Ningsih",
+    "photo": "/MSL/foto/9.jpg",
+    "photo2": "/MSL/foto/9a.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
+    "generation": 1,
+    "id": 1
+  },
+  {
+    "name": "Eca",
+    "photo": "/MSL/foto/9.1.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "generation": 2,
+    "id": 2
+  }
+]

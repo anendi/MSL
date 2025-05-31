@@ -1,13 +1,14 @@
 [
   {
-    "name": "Asep Nendi",
+    "name": "Kel.Bpk.Asep Nendi",
+    "nam": "Bapak Asep Nendi",
+    "nam2": "Ibu Dedeh Koesharyanti",
     "photo": "/MSL/foto/1.1.jpg",
-    "generation": 1
-  },
-  {
-    "name": "Dedeh Koesharyanti",
-    "photo": "/MSL/foto/1.1a.jpg",
-    "generation": 1
+    "photo2": "/MSL/foto/1.1a.jpg",
+    "generation": 1,
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
+    "id": 2
   },
   {
     "name": "Salvina Mahya Shaliha",
@@ -15,7 +16,7 @@
     "generation": 2
   },
   {
-    "name": "Queenshara Shimer",
+    "name": "Queenshara Shimmer",
     "photo": "/MSL/foto/1.1.2.jpg",
     "generation": 2
   }

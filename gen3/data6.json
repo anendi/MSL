@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Kel.Ibu Wida",
+    "nam": "Bapak Arwondo",
+    "nam2": "Ibu Wida",
+    "photo": "/MSL/foto/4.1.jpg",
+    "photo2": "/MSL/foto/4.1a.jpg",
+    "generation": 1,
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
+    "id": 2
+  },
+  {
+    "name": "Galuh",
+    "photo": "/MSL/foto/4.1.1.jpg",
+    "generation": 2
+  },
+  {
+    "name": "Sekar",
+    "photo": "/MSL/foto/4.1.2.jpg",
+    "generation": 2
+  }
+]

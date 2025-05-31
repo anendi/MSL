@@ -1,17 +1,20 @@
 [
   {
-    "name": "Bapak Daren",
-    "photo": "/foto/4.jpg",
-    "generation": 1
+    "name": "Kel.Ibu Odah Saodah Salim",
+    "nam": "Bapak Nurwanto",
+    "nam2": "Ibu Odah Saodah",
+    "photo": "/MSL/foto/14.jpg",
+    "photo2": "/MSL/foto/14a.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
+    "generation": 1,
+    "id": 1
   },
   {
-    "name": "Ibu Odah Saodah",
-    "photo": "/foto/4a.jpg",
-    "generation": 1
-  },
-  {
-    "name": "Daren Audris",
-    "photo": "/foto/4.1.jpg",
-    "generation": 2
+    "name": "Darren Audris",
+    "photo": "/MSL/foto/14.1.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "generation": 2,
+    "id": 4
   }
 ]

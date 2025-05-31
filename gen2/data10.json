@@ -1,31 +1,20 @@
 [
   {
-    "name": "Kel. Bpk Aceng Madsalim",
-    "photo": "/foto/0.jpg",
-    "photo2": "/foto/0a.jpg",
+    "name": "Kel.Bapak Kurnia",
+    "nam": "Bapak Wawan Kurniawan",
+    "nam2": "Ibu Nina",
+    "photo": "/MSL/foto/8.jpg",
+    "photo2": "/MSL/foto/8a.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
     "generation": 1,
     "id": 1
   },
   {
-    "name": "Kel.Bpk.Asep Nendi",
-    "photo": "/foto/1.jpg",
-    "photo2": "/foto/1a.jpg",
+    "name": "Nur Aini",
+    "photo": "/MSL/foto/8.1.jpg",
+    "dob": "Lahir: 1 Jan 1990",
     "generation": 2,
     "id": 2
-  },
-  {
-    "name": "Kel.Bpk Ade Indralesmana",
-    "photo": "/foto/2.jpg",
-    "photo2": "/foto/2a.jpg",
-    "generation": 2,
-    "id": 3
-  },
-  {
-    "name": "Kel.Bpk Andre Nugraha",
-    "photo": "/foto/3.jpg",
-    "photo2": "/foto/3a.jpg",
-    "generation": 2,
-    "id": 4
   }
-  
 ]

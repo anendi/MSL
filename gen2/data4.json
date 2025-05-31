@@ -1,31 +1,46 @@
 [
   {
-    "name": "Kel. Bpk Aceng Madsalim",
-    "photo": "/foto/0.jpg",
-    "photo2": "/foto/0a.jpg",
+    "name": "Kel.Bpk Dadang",
+    "nam": "Bapak Dadang Uli",
+    "nam2": "Ibu Edah",
+    "photo": "/MSL/foto/3.jpg",
+    "photo2": "/MSL/foto/3a.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
+    "die": "Wafat: 1 Jan 2020",
     "generation": 1,
     "id": 1
   },
   {
-    "name": "Kel.Bpk.Asep Nendi",
-    "photo": "/foto/1.jpg",
-    "photo2": "/foto/1a.jpg",
+    "name": "Kel.Ibu Ruki",
+    "nam": "Bapak Aday",
+    "nam2": "Ibu Ruki",
+    "photo": "/MSL/foto/3.1.jpg",
+    "photo2": "/MSL/foto/3.1a.jpg",
     "generation": 2,
+    "dob": "Lahir: 1 Jan 1990",
+    "dob2": "Lahir: 1 Jan 1990",
     "id": 2
   },
   {
-    "name": "Kel.Bpk Ade Indralesmana",
-    "photo": "/foto/2.jpg",
-    "photo2": "/foto/2a.jpg",
+    "name": "Nurhadi",
+    "photo": "/MSL/foto/3.2.jpg",
+    "dob": "Lahir: 1 Jan 1990",
     "generation": 2,
     "id": 3
   },
   {
-    "name": "Kel.Bpk Andre Nugraha",
-    "photo": "/foto/3.jpg",
-    "photo2": "/foto/3a.jpg",
+    "name": "Herdi",
+    "photo": "/MSL/foto/3.3.jpg",
+    "dob": "Lahir: 1 Jan 1990",
+    "generation": 2,
+    "id": 4
+  },
+  {
+    "name": "Gina",
+    "photo": "/MSL/foto/3.4.jpg",
+    "dob": "Lahir: 1 Jan 1990",
     "generation": 2,
     "id": 4
   }
-  
 ]
