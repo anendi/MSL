@@ -20,7 +20,7 @@ async function loadData() {
           <div class="row"><div class="col"><img src="${member.photo}" alt="${member.name}" /></div>
           <div class="col"><img src="${member.photo2}" alt="${member.name}" /></div>
           </div>
-          <a href="${member.id === 1 ? "" : "gen2/" + member.id + ".html"}">
+          <a href="${member.id === 1 ? "" : "https://anendi.github.io/MSL/gen2/" + member.id + ".html"}">
     <strong>${member.name}</strong>
   </a>
         `;
